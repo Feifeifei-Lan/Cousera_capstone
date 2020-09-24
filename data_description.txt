@@ -1,0 +1,3 @@
+Data: 
+
+The data used is downloaded from the link. It contains 194674 car accident cases with description of location, time, weather condition, road condition, light condition, other features and severity. Using this data, we can find the relation between severity of accident and features. If the feature and severity is related, we can tell that the feature can cause potential danger for drivers. 
